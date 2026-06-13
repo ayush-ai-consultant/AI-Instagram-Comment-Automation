@@ -55,3 +55,14 @@ Instagram Reply
 
 Add system architecture section
 
+
+## 🧩 Challenges Solved
+
+- Configured Meta Business Portfolio and Instagram Business integrations.
+- Implemented webhook verification and production webhook subscriptions.
+- Prevented recursive self-reply loops caused by webhook-triggered AI responses.
+- Managed short-lived and long-lived Meta access token workflows.
+- Designed prompt-engineered AI responses to maintain a consistent brand personality.
+- Implemented human-like response timing to improve production readiness.
+
+Add challenges solved section
