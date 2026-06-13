@@ -28,3 +28,30 @@ Add features section to README
 - Production Deployment
 
 Add tech stack section to README
+
+
+
+## 🏗️ System Architecture
+
+```text
+Instagram Comment
+        ↓
+Meta Webhook
+        ↓
+n8n Webhook Trigger
+        ↓
+Comment Processing
+        ↓
+Self-Reply Prevention
+        ↓
+20–49 Second Human Delay
+        ↓
+OpenAI GPT-4o
+        ↓
+Meta Graph API
+        ↓
+Instagram Reply
+```
+
+Add system architecture section
+
