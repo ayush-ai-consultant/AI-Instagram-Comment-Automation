@@ -78,3 +78,5 @@ Add challenges solved section
 ### Instagram AI Reply Example
 
 ![Instagram Reply](instagram-reply.jpg)
+
+Add screenshots to README
