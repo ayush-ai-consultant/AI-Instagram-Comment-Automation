@@ -14,3 +14,17 @@ An AI-powered Instagram comment automation system that generates contextual resp
 - Long-lived Meta access token management
 
 Add features section to README
+
+
+
+## 🛠️ Tech Stack
+
+- OpenAI GPT-4o
+- Meta Graph API
+- Instagram Webhooks
+- n8n (Self-hosted)
+- HTTP Requests
+- Prompt Engineering
+- Production Deployment
+
+Add tech stack section to README
