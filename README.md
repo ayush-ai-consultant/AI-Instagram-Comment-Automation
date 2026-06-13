@@ -73,10 +73,10 @@ Add challenges solved section
 
 ### Workflow Execution Success
 
-![Workflow Success](workflow-success.jpg)
+![Workflow Success](screenshots/workflow-success.jpg)
 
 ### Instagram AI Reply Example
 
-![Instagram Reply](instagram-reply.jpg)
+![Instagram Reply](screenshots/instagram-reply.jpg)
 
-Add screenshots to README
+Fix screenshot paths in README
